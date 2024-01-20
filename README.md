@@ -1,2 +1,1 @@
-# Tic_Tac_Toe_Game
-Tic Tac Toe Game using HTML, CSS and JavaScript
+Tic Tac Toe is a classic two-player strategy game played on a 3x3 grid. The objective is to form a horizontal, vertical, or diagonal line of three of your own symbols (X or O) before your opponent. Players take turns placing their symbols on the grid, and the game ends when one player achieves a winning combination or when the grid is filled, resulting in a draw. It's a simple yet engaging game that tests players' strategic thinking and spatial awareness.
